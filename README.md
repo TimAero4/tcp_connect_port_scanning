@@ -20,7 +20,7 @@ import (
     "fmt"
     "time"
 
-    "github.com/yourusername/portscan"
+    https://github.com/TimAero4/tcp_connect_port_scanning.git
 )
 
 func main() {
